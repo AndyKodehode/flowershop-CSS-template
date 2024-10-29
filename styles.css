@@ -1,0 +1,28 @@
+/* This is a page for a flower shop with some basic HTML, your task is to style it with CSS
+
+see the wireframe here 
+
+The page should have navbar with 3 links in the top right corner 
+
+The header setion should have an image in the background and text on top, 
+make the background img fit more of the header and make the img fit correctly
+
+find some color on https://coolors.co/ that you think will fit for this page, the page should have a light and soft style
+
+there is a section called services, this should be a row with 3 cards, each card should have a column layout
+
+there is different buttons in the HTML, one in the header and one in each card, style them differently
+
+There is a sections called "infoBlock" that should be a row with image on one side and text on the other
+
+The two "blocks" should have the img on different sides(zig zag)
+
+The footer should have list were the list items is spread out with space between
+
+
+
+*/
+
+.headerContainer {
+  background-image: url('https://images.unsplash.com/photo-1487530811176-3780de880c2d?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+}
